@@ -1,0 +1,23 @@
+{
+  "name": "labold3d",
+  "version": "1.0.0",
+  "description": "Recreando antiguas tecnicas de diseno y animacion3d",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavozunigagoni/labold3d.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavozunigagoni/labold3d/issues"
+  },
+  "homepage": "https://github.com/gustavozunigagoni/labold3d#readme",
+  "dependencies": {
+    "typescript": "^5.2.2"
+  }
+}
