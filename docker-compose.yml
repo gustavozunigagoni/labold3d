@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  labold3dserver:
+    build:
+      context: ./server
+      dockerfile: dockerfile
+    ports:
+      - "3000:3000"
+    volumes:
+      - "./server:/app"

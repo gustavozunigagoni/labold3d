@@ -1,2 +1,1 @@
-# labold3d
-Recreando antiguas tecnicas de diseno y animacion3d
+Recreando antiguas tecnicas de diseno de anomacion de objetos 3d
